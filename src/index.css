@@ -1,0 +1,34 @@
+body {
+  margin:10;
+  padding: 10;
+  font-family: sans-serif;
+  background-image: url("index.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color:white;
+}
+
+label span { color:white; }
+
+
+.okay{
+  display: flex;
+  justify-content : center;
+  align-items :center;
+  margin: 100px;
+}
+#try
+{
+  display: flex;
+  justify-content : center;
+  align-items :center;
+ 
+}
+#small
+{
+  display: flex;
+  justify-content : center;
+  align-items :center;
+ 
+}
